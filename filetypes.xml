@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="signingKey" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping ext="controller" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
